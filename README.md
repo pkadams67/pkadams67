@@ -9,10 +9,4 @@ Today, I mostly work in Swift, coding as needed in others such as Java, Ruby, an
 
 [Website](https://adams.io) | [Stack Overflow](https://stackoverflow.com/story/pkadams67) | [Twitter](https://www.twitter.com/pkadams67) | [LinkedIn](https://www.linkedin.com/in/pkadams67) | [Facebook](http://facebook.com/pkadams67)
 
-<a href="https://github.com/pkadams67/pkadams67">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pkadams67&show_icons=true&line_height=27&count_private=true&title_color= 555555&text_color= 555555&icon_color= 555555&bg_color= #555555" alt="Paul’s GitHub Stats"/>
-</a>
-
-<a href="https://github.com/pkadams67/pkadams67">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkadams67&hide=java,html&title_color= 555555&text_color= 555555&icon_color= 555555&bg_color= #555555" />
-</a>
+![Paul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadams67&layout=compact)
