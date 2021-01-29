@@ -1,4 +1,4 @@
-![Hello 👋](https://i.imgur.com/Dg3CiGC.jpg)
+![Hello 👋](https://i.imgur.com/P0SiUoU.jpg)
 
 Hello, I’m Paul.
 ===
