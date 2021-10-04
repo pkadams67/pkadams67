@@ -3,7 +3,7 @@
 Hello, I’m Paul.
 ===
 
-I’m an Apple Developer based near Music City, USA. At age ten, I created a tic-tac-toe game in Fortran. That led to learning AppleSoft BASIC and other compiled languages. Nowadays, I code almost exclusively in Swift, scripting as needed for other compilers.
+I’m an Apple Developer based near Music City, USA. At age ten, I programmed a tic-tac-toe game in Fortran. That led to learning AppleSoft BASIC and other compiled languages. Nowadays, I code almost exclusively in Swift, scripting as needed for other compilers.
 
 I’ve collaborated on over 200 titles among a dozen different App Store categories. It’s an amazing feeling knowing my code has been in the hands of more than a million users.
 
