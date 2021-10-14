@@ -7,7 +7,7 @@ I’m an Apple Developer based near Music City, USA. At age ten, I keypunched a 
 
 I’ve collaborated on over 200 titles among a dozen different App Store categories. It’s an amazing feeling knowing my code has been in the hands of more than a million users.
 
-I’m a proud spouse, parent of three, and grandparent of one. When not coding, I wrangle our spirited [Weimaner](https://www.akc.org/dog-breeds/weimaraner/), enjoy live music, and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
+I’m a proud spouse, parent of three, and grandparent of two. When not coding, I wrangle our spirited [Weimaner](https://www.akc.org/dog-breeds/weimaraner/), enjoy live music, and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
 
 [Website](https://adams.io) | [Stack Overflow](https://stackoverflow.com/story/pkadams67) | [Twitter](https://www.twitter.com/pkadams67) | [LinkedIn](https://www.linkedin.com/in/pkadams67) | [Facebook](http://facebook.com/pkadams67)
 
