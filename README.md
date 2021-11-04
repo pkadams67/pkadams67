@@ -9,6 +9,6 @@ I’ve collaborated on over 200 titles among a dozen different App Store categor
 
 I’m a proud spouse, parent of three, and grandparent of two. When not coding, I wrangle our spirited [Weimaner](https://www.akc.org/dog-breeds/weimaraner/), enjoy live music, and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
 
-[Website](https://adams.io) | [Stack Overflow](https://stackoverflow.com/story/pkadams67) | [Twitter](https://www.twitter.com/pkadams67) | [LinkedIn](https://www.linkedin.com/in/pkadams67) | [Facebook](http://facebook.com/pkadams67)
+[Website](https://adams.io) | [Stack Overflow](https://stackoverflow.com/cv/pkadams67) | [Twitter](https://www.twitter.com/pkadams67) | [LinkedIn](https://www.linkedin.com/in/pkadams67) | [Facebook](http://facebook.com/pkadams67)
 
 ![Paul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadams67&layout=compact)
