@@ -10,7 +10,7 @@ I’ve collaborated on over 200 titles among a dozen different markets. It’s a
 I’m a proud spouse, parent of three, and grandparent of two. When not coding, I enjoy live music and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
 
 [Website](https://adams.io) | 
-[Stack Overflow](https://stackoverflow.com/cv) |
+[Stack Overflow](https://stackoverflow.com/cv/pkadams67) |
 [Twitter](https://www.twitter.com/pkadams67) | 
 [LinkedIn](https://www.linkedin.com/in/pkadams67) |
 [Facebook](http://facebook.com/pkadams67)
