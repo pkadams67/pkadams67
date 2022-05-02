@@ -10,7 +10,6 @@ I’ve collaborated on 200+ among a 14 different App Store categories. It’s a 
 I’m a proud spouse, parent of three, and grandparent of two. When not coding, I enjoy wrangling our [Weimaraner](https://www.akc.org/dog-breeds/weimaraner), live music, and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
 
 [Website](https://adams.io) | 
-[Stack Overflow](https://stackoverflow.com/cv/pkadams67) |
 [Twitter](https://www.twitter.com/pkadams67) | 
 [LinkedIn](https://www.linkedin.com/in/pkadams67) |
 [Facebook](http://facebook.com/pkadams67)
