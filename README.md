@@ -1,4 +1,4 @@
-![Hello 👋](https://i.imgur.com/R8tF78Q.jpg)
+![Hello 👋](https://i.imgur.com/YT2vTF6.jpg)
 
 Hello, I’m Paul.
 ===
@@ -10,7 +10,6 @@ I’ve collaborated on 200+ among 14 different App Store categories. It’s a fa
 I’m a proud spouse, parent of three, and grandparent of two. When not coding, I enjoy wrangling our [Weimaraner](https://www.akc.org/dog-breeds/weimaraner), live music, and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
 
 [Website](https://adams.io) | 
-[Twitter](https://www.twitter.com/pkadams67) | 
 [LinkedIn](https://www.linkedin.com/in/pkadams67) |
 [Facebook](http://facebook.com/pkadams67)
 
