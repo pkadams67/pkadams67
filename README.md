@@ -12,5 +12,3 @@ I’m a proud spouse, parent of three, and grandparent of two. When not coding, 
 [Website](https://adams.io) | 
 [LinkedIn](https://www.linkedin.com/in/pkadams67) |
 [Facebook](http://facebook.com/pkadams67)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadams67&layout=compact)
