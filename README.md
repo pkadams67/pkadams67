@@ -1,15 +1,20 @@
 ![Hello 👋](https://i.imgur.com/hfDTfji.jpg)
 
-Hello, I’m Paul.
-===
+## Hello, I’m Paul.
 
-At age ten, I keypunched a tic-tac-toe game in Fortran. That led to learning AppleSoft BASIC and other programming languages. For seven years, I coded almost exclusively in Swift, reviewed Kotlin, and scripted as needed for other compilers. Nowadays, however, I tend to focus more on leading teams.
+My programming journey ignited when I crafted a Fortran tic-tac-toe game at age ten. This led me to explore multiple programming languages.
 
-I’ve collaborated on over 200 other titles among 14 categories. It’s mind-blowing that my work’s been in the hands of millions.
+For over seven years, I specialized in mobile app development. In 2019, I transitioned to leadership, drawing from my unique U.S. Army Ranger background and counseling psychology expertise to shape high-performing teams. I've contributed to 200+ projects across various markets, reaching millions of users.
 
-I’m a proud spouse, parent of three, and grandparent of three. When not coding, I enjoy wrangling our [Weimaraner](https://www.akc.org/dog-breeds/weimaraner), live music, [travel](https://www.google.com/maps/d/u/1/edit?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&usp=sharing), and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
+Beyond tech, I cherish family time with my spouse, three children, and three grandchildren. My lively [Weimaraner](https://www.akc.org/dog-breeds/weimaraner) keeps things exciting. I also revel in live music, [travel adventures](https://www.google.com/maps/d/u/1/edit?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&usp=sharing), and fervently support the [Crimson Tide](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football) on the gridiron.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pkadams67)](https://git.io/streak-stats)
+Thanks for visiting my profile. Curious about my projects? Explore my GitHub repositories!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pkadams67&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkadams67&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+--
 
 [Website](https://adams.io) | 
 [LinkedIn](https://www.linkedin.com/in/pkadams67) |
