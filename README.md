@@ -9,6 +9,8 @@ I’ve collaborated on over 200 other titles among 14 categories. It’s mind-bl
 
 I’m a proud spouse, parent of three, and grandparent of two. When not coding, I enjoy wrangling our [Weimaraner](https://www.akc.org/dog-breeds/weimaraner), live music, [travel](https://www.google.com/maps/d/u/1/edit?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&usp=sharing), and [Crimson Tide Football](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pkadams67)](https://git.io/streak-stats)
+
 [Website](https://adams.io) | 
 [LinkedIn](https://www.linkedin.com/in/pkadams67) |
 [Facebook](http://facebook.com/pkadams67)
