@@ -2,11 +2,9 @@
 
 ## Hello, I’m Paul.
 
-Thanks for visiting my profile! My programming journey ignited when I crafted a Fortran tic-tac-toe game at age ten. This led me to explore multiple programming languages.
+I’ve been passionate about technology since age 10, when I developed a Fortran tic-tac-toe game. This sparked a lifelong interest in programming and led me to explore multiple languages. After seven years in mobile app development, I transitioned to leadership in 2019, where I draw on my U.S. Army Ranger background and counseling psychology expertise to guide high-performing teams.
 
-For over seven years, I specialized in mobile app development. In 2019, I transitioned to leadership, drawing from my unique U.S. Army Ranger background and counseling psychology expertise to shape high-performing teams. I’ve contributed to 200+ projects across various markets, reaching millions of users.
-
-Beyond tech, I cherish family time with my spouse, three children, and four grandchildren. My lively [Weimaraner](https://www.akc.org/dog-breeds/weimaraner) keeps things exciting. I also revel in live music, [travel adventures](https://www.google.com/maps/d/u/1/edit?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&usp=sharing), and fervently support the [Crimson Tide](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football) on the gridiron.
+With experience across 200+ projects, I’ve helped build products that reach millions of users. Outside work, I enjoy spending time with my wife, three children, four grandchildren, and our lively [Weimaraner](https://www.akc.org/dog-breeds/weimaraner). I’m also passionate about live music, [travel](https://www.google.com/maps/d/u/1/edit?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&usp=sharing), and cheering on the [Crimson Tide](https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football).
 
 ---
 
@@ -16,6 +14,4 @@ Beyond tech, I cherish family time with my spouse, three children, and four gran
 
 ---
 
-[Website](https://adams.io) | 
-[LinkedIn](https://www.linkedin.com/in/pkadams67) |
-[Facebook](http://facebook.com/pkadams67)
+[Website](https://adams.io) | [LinkedIn](https://www.linkedin.com/in/pkadams67) | [Facebook](http://facebook.com/pkadams67)
