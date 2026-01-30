@@ -4,7 +4,7 @@
 
 My passion for technology began at the age of 10, when I keypunched a Fortran tic-tac-toe game on a UNIVAC Series 90 in 1977. That early brush with “Big Iron” stuck with me.
 
-I served 16 years in the U.S. Army, progressing through Airborne and Special Operations assignments and earning my [Ranger Tab](https://en.wikipedia.org/wiki/Ranger_School) in 1995. I directed secure IT operations in high-stakes environments, leading teams that achieved 99.999% uptime on mission-critical infrastructure.
+I served 16 years in the U.S. Army, progressing through airborne and Special Forces assignments and earning my [Ranger Tab](https://en.wikipedia.org/wiki/Ranger_School) in 1995. I directed secure IT operations in high-stakes environments, leading teams that achieved 99.998% uptime on mission-critical infrastructure.
 
 After my military service, I earned a degree in psychology and pursued graduate study in counseling, then re-entered the tech industry through [DevMountain’s](https://devmountain.com) iOS boot camp in 2015. Four years of mobile development led me to engineering leadership in 2019, where my background in behavioral healthcare helps me coach and grow high-performing teams.
 
