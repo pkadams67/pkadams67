@@ -1,6 +1,6 @@
 ![Hello 👋](https://i.imgur.com/kFXufmS.jpeg)
 
-## Hello 👋
+## Hello, I’m Paul.
 
 I’ve been building and leading critical systems most of my life. My introduction to computing came early, keypunching a Fortran tic-tac-toe program on a UNIVAC mainframe in the late ‘70s. Since then, I’ve focused on technology that works when it matters.
 
@@ -12,6 +12,8 @@ Today, I lead mobile engineering at [iSeatz](https://www.iseatz.com), supporting
 
 Outside work, I spend time with my wife, family, and our [Weimaraner](https://www.akc.org/dog-breeds/weimaraner), enjoying live music, [travel](https://www.google.com/maps/d/u/1/viewer?mid=17xvqfTc_OMc9VCa3vX-LsG3JqfC43mo&ll=23.179006731910512%2C-39.19093074793049&z=3), and Alabama football.
 
----
+<br>
 
-🌐 [Website](https://adams.io)   |   💼 [LinkedIn](https://www.linkedin.com/in/pkadams67)   |   📘 [Facebook](http://facebook.com/pkadams67)
+[![Website](https://img.shields.io/badge/adams.io-FF8200?style=flat-square)](https://adams.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/pkadams67)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](http://facebook.com/pkadams67)
