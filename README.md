@@ -1,6 +1,6 @@
 ![Hello 👋](https://i.imgur.com/kFXufmS.jpeg)
 
-## Hello, I’m Paul.
+## Hello 👋
 
 I’ve been building and leading critical systems most of my life. My introduction to computing came early, keypunching a Fortran tic-tac-toe program on a UNIVAC mainframe in the late ‘70s. Since then, I’ve focused on technology that works when it matters.
 
