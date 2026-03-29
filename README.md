@@ -12,7 +12,6 @@ Outside work, I spend time with my wife, family, and our [Weimaraner](https://ww
 
 <br>
 
-[![Website](https://img.shields.io/badge/adams.io-FF8200?style=flat-square)](https://adams.io)
-[![Blog](https://img.shields.io/badge/Blog-333333?style=flat-square)](https://adams.io/blog)
+[![Blog](https://img.shields.io/badge/Blog-13261B?style=flat-square)](https://adams.io/blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square)](https://www.linkedin.com/in/pkadams67)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square)](http://facebook.com/pkadams67)
